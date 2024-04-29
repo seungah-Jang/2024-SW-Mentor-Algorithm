@@ -6,10 +6,10 @@
 - Python
 
 ## 파일 구조
-- seungah/차시/문제번호.py
-- carol/차시/문제번호.py
-- jueun/차시/문제번호.py
-- seohyeon/차시/문제번호.py
+- BOJ/seungah/차시/문제번호.py
+- BOJ/carol/차시/문제번호.py
+- BOJ/jueun/차시/문제번호.py
+- BOJ/seohyeon/차시/문제번호.py
 
 | **차시**|**설명문제**|**연습문제**|
 |---------|------------|------------|
