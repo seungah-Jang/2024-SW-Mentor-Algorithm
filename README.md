@@ -13,4 +13,8 @@
 
 | **차시**|**설명문제**|**연습문제**|
 |---------|------------|------------|
-|1차시     | [오븐시계 2525](https://www.acmicpc.net/problem/2525)<br>[스케이트 연습 28324](https://www.acmicpc.net/problem/28324)|[주사위세개 2480](https://www.acmicpc.net/problem/2480) <br> [제자리 25400](https://www.acmicpc.net/problem/25400)
+|1차시     | [오븐시계 2525](https://www.acmicpc.net/problem/2525)<br>[스케이트 연습 28324](https://www.acmicpc.net/problem/28324)|[주사위세개 2480](https://www.acmicpc.net/problem/2480) <br> [제자리 25400](https://www.acmicpc.net/problem/25400) |
+|2차시|
+|3차시|
+|4차시|
+|5차시|
